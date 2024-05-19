@@ -1,6 +1,6 @@
 name: Lab3
 description: ''
-version: 0.0.1
+version: '0.1'
 author: volodymyr.pylypets.mknem.2023@lpnu.ua
 language: python
 buildSystem: ''
